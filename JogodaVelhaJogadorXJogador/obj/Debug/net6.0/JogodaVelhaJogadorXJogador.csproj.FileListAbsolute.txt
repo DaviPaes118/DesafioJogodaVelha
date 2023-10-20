@@ -1,0 +1,14 @@
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\bin\Debug\net6.0\JogodaVelhaJogadorXJogador.exe
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\bin\Debug\net6.0\JogodaVelhaJogadorXJogador.deps.json
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\bin\Debug\net6.0\JogodaVelhaJogadorXJogador.runtimeconfig.json
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\bin\Debug\net6.0\JogodaVelhaJogadorXJogador.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\bin\Debug\net6.0\JogodaVelhaJogadorXJogador.pdb
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\obj\Debug\net6.0\JogodaVelhaJogadorXJogador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\obj\Debug\net6.0\JogodaVelhaJogadorXJogador.AssemblyInfoInputs.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\obj\Debug\net6.0\JogodaVelhaJogadorXJogador.AssemblyInfo.cs
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\obj\Debug\net6.0\JogodaVelhaJogadorXJogador.csproj.CoreCompileInputs.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\obj\Debug\net6.0\JogodaVelhaJogadorXJogador.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\obj\Debug\net6.0\refint\JogodaVelhaJogadorXJogador.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\obj\Debug\net6.0\JogodaVelhaJogadorXJogador.pdb
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\obj\Debug\net6.0\JogodaVelhaJogadorXJogador.genruntimeconfig.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\JogodaVelhaJogadorXJogador\obj\Debug\net6.0\ref\JogodaVelhaJogadorXJogador.dll
