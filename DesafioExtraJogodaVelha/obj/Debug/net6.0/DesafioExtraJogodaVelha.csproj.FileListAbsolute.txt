@@ -1,0 +1,14 @@
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\bin\Debug\net6.0\DesafioExtraJogodaVelha.exe
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\bin\Debug\net6.0\DesafioExtraJogodaVelha.deps.json
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\bin\Debug\net6.0\DesafioExtraJogodaVelha.runtimeconfig.json
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\bin\Debug\net6.0\DesafioExtraJogodaVelha.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\bin\Debug\net6.0\DesafioExtraJogodaVelha.pdb
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\obj\Debug\net6.0\DesafioExtraJogodaVelha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\obj\Debug\net6.0\DesafioExtraJogodaVelha.AssemblyInfoInputs.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\obj\Debug\net6.0\DesafioExtraJogodaVelha.AssemblyInfo.cs
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\obj\Debug\net6.0\DesafioExtraJogodaVelha.csproj.CoreCompileInputs.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\obj\Debug\net6.0\DesafioExtraJogodaVelha.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\obj\Debug\net6.0\refint\DesafioExtraJogodaVelha.dll
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\obj\Debug\net6.0\DesafioExtraJogodaVelha.pdb
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\obj\Debug\net6.0\DesafioExtraJogodaVelha.genruntimeconfig.cache
+C:\Users\Davi-PC\OneDrive\Área de Trabalho\DevOps\.NET\DesafioExtraJogodaVelha\obj\Debug\net6.0\ref\DesafioExtraJogodaVelha.dll
